@@ -1,0 +1,26 @@
+{
+  "name": "shveymash",
+  "version": "1.0.0",
+  "description": "mkdir src public build source source\\css source\\js source\\img source\\vendor\r npm install gulp -g\r npm install --save gulp jade stylus nib livereload myth csso imagemin uglify concat connect",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "connect": "^2.30.2",
+    "connect-livereload": "^0.5.4",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^2.0.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-myth": "^1.1.0",
+    "gulp-stylus": "^2.4.0",
+    "gulp-uglify": "^1.5.3",
+    "nib": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
